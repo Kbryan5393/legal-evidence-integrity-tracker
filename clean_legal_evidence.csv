@@ -1,0 +1,20 @@
+evidence_id,case_id,document_type,file_name,received_date,file_size_kb,needs_review
+EV-001,CV-2026-101,Contract,evidence_001.pdf,2026-10-25,115.0,False
+EV-002,CV-2026-102,Email,evidence_002.pdf,2026-10-25,130.0,False
+EV-003,CV-2026-102,Deposition,evidence_003.pdf,2026-10-25,145.0,False
+EV-004,CV-2026-100,Invoice,evidence_004.pdf,2026-10-25,160.0,False
+EV-005,CV-2026-101,Medical Record,evidence_005.pdf,2026-10-25,175.0,False
+EV-006,CV-2026-102,Contract,evidence_006.pdf,2026-10-25,190.0,False
+EV-007,CV-2026-103,Email,evidence_007.pdf,2026-10-25,205.0,False
+EV-008,CV-2026-100,Deposition,evidence_008.pdf,2026-10-25,220.0,False
+EV-009,CV-2026-101,Invoice,evidence_009.pdf,,235.0,True
+EV-010,CV-2026-102,Medical Record,evidence_010.pdf,2026-10-25,250.0,False
+EV-011,CV-2026-103,Contract,evidence_011.pdf,2026-10-25,265.0,False
+EV-012,CV-2026-100,Email,evidence_012.pdf,2026-10-25,,True
+EV-013,CV-2026-101,Deposition,evidence_013.pdf,2026-10-25,295.0,False
+EV-014,CV-2026-102,Invoice,evidence_014.pdf,2026-10-25,310.0,False
+EV-015,CV-2026-103,Medical Record,evidence_015.pdf,2026-10-25,325.0,False
+EV-016,CV-2026-103,Contract,evidence_016.pdf,2026-10-25,340.0,False
+EV-017,CV-2026-101,Email,evidence_017.pdf,2026-10-25,355.0,False
+EV-018,CV-2026-102,Deposition,evidence_018.pdf,2026-10-25,370.0,False
+EV-019,CV-2026-103,Invoice,evidence_019.pdf,2026-10-25,385.0,False
